@@ -1,0 +1,10 @@
+**/.git
+**/.gitignore
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/README.md
+**/LICENSE
+**/setup.py
+**/setup.sh
+**/.DS_Store
